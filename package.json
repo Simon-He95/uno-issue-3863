@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro build && astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.9.2",
+    "unocss": "^0.60.4",
+    "@astrojs/react": "^3.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
